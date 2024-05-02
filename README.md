@@ -1,3 +1,9 @@
+###
+
+<h1 align="center">Welcome 👋</h1>
+
+###
+
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/4d/7a/08/4d7a08e2814de22f701c97d17917416c.gif"  />
 </div>
@@ -15,12 +21,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Welcome 👋</h1>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
