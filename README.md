@@ -2,7 +2,7 @@
 
 ##
 
-<img height="" src="https://media.tenor.com/mzo_6q_TMW0AAAAM/shirasu-azusa-blue-archive.gif"  />
+<img height="500" src="https://media.tenor.com/mzo_6q_TMW0AAAAM/shirasu-azusa-blue-archive.gif"  />
 
 ##
 
